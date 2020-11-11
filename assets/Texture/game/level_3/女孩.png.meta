@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "71835e4c-8d82-4503-8ec0-fe7d476278a6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 133,
+  "height": 223,
+  "platformSettings": {},
+  "subMetas": {
+    "女孩": {
+      "ver": "1.0.4",
+      "uuid": "189faf61-4bd7-43f4-a39d-fe1574c65244",
+      "rawTextureUuid": "71835e4c-8d82-4503-8ec0-fe7d476278a6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 133,
+      "height": 223,
+      "rawWidth": 133,
+      "rawHeight": 223,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
