@@ -38,6 +38,7 @@ export default class ResultUI extends BaseUI {
       })
       .start();
 
+    // cc.error(Constants.AssessStatisticsJson);
     SendMsg.reqSaveAssessStatistics(Constants.AssessStatisticsJson);
   }
 
